@@ -1,7 +1,7 @@
 # Stochastic Local Volatility Models
 - Stochastic local volatility model calibration
 - McKean-Vlasov type equity dynamic
-- Particle method calibration
+- Particle method type calibration algorithm
 
 # Results
 ## Local volatility surface with flat equity smile
